@@ -8,7 +8,8 @@ versions:
   fpt: '*'
 shortTitle: About connections
 ---
-{% data variables.product.prodname_desktop %} connects to {% data variables.product.prodname_dotcom %} when you pull from, push to, clone, and fork remote repositories. To connect to {% data variables.product.prodname_dotcom %} from {% data variables.product.prodname_desktop %}, you must authenticate your account. For more information, see "[Authenticating to {% data variables.product.prodname_dotcom %}](/desktop/getting-started-with-github-desktop/authenticating-to-github)."
+{% data variables.product.prodname_desktop %} connects to {% data variables.product.prodname_dotcom %} when you pull from, push to, clone, and fork remote repositories. To connect to {% data variables.product.prodname_dotcom %} from {% data variables.product.prodname_desktop %}, you must authenticate your account. For more information, see "[Authenticating to {% data variables.product.prodname_dotcom %}](/desktop/getting-started-w![04655C88-72C8-4453-BD3B-DE9041203E77](https://user-images.githubusercontent.com/10479864/136979958-fb8c11de-51f1-45dd-b313-0e960957d56b.jpeg)
+ith-github-desktop/authenticating-to-github)."
 
 After you authenticate to {% data variables.product.prodname_dotcom %}, you can connect to remote repositories with {% data variables.product.prodname_desktop %}. {% data variables.product.prodname_desktop %} caches your credentials (username and password or personal access token) and uses the credentials to authenticate for each connection to the remote repository.
 
